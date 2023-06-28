@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7vDnCGz40qXFr5wPcI9KwHGuS/EuBVQwAO9xdv6WRNNvX/ddRGQloDOesZcNGx4x+YpgC1tmuPI29A5JkELRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\weren\\Desktop\\Labs_2023\\parcs\\Distance\\Distance\\Distance\\Distance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\weren\\.nuget\\packages\\parcs\\2.0.0\\parcs.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Distance/1.0.0": {
+        "dependencies": {
+          "Parcs": "2.0.0"
+        },
+        "runtime": {
+          "Distance.dll": {}
+        }
+      },
+      "Parcs/2.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Parcs.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Distance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parcs/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CJsoQYjFOHSSB267WWefZ/BIaulo+UStk6/vvIsa1iFKs0YhEenqDjpZJYCOmt4PYNmMZydmpu8/ujy+YCyGzg==",
+      "path": "parcs/2.0.0",
+      "hashPath": "parcs.2.0.0.nupkg.sha512"
+    }
+  }
+}

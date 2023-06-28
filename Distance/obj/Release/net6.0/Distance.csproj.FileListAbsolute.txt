@@ -1,0 +1,17 @@
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\bin\Release\net6.0\Distance.exe
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\bin\Release\net6.0\Distance.deps.json
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\bin\Release\net6.0\Distance.runtimeconfig.json
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\bin\Release\net6.0\Distance.dll
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\bin\Release\net6.0\Distance.pdb
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\bin\Release\net6.0\Parcs.dll
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\obj\Release\net6.0\Distance.csproj.AssemblyReference.cache
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\obj\Release\net6.0\Distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\obj\Release\net6.0\Distance.AssemblyInfoInputs.cache
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\obj\Release\net6.0\Distance.AssemblyInfo.cs
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\obj\Release\net6.0\Distance.csproj.CoreCompileInputs.cache
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\obj\Release\net6.0\Distance.csproj.CopyComplete
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\obj\Release\net6.0\Distance.dll
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\obj\Release\net6.0\refint\Distance.dll
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\obj\Release\net6.0\Distance.pdb
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\obj\Release\net6.0\Distance.genruntimeconfig.cache
+C:\Users\weren\Desktop\Labs_2023\parcs\Distance\Distance\Distance\obj\Release\net6.0\ref\Distance.dll
